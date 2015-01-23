@@ -1,0 +1,11 @@
+D:\Documents\Alpha Strike Over 9000\C#\csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick BreakerContent\obj\x86\Debug\Brick BreakerContent.contentprojResolveAssemblyReference.cache
+D:\Documents\Alpha Strike Over 9000\C#\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick BreakerContent\obj\x86\Debug\Brick BreakerContent.contentprojResolveAssemblyReference.cache
+C:\Users\0934402\Downloads\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick BreakerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\0934402\Desktop\!csharp_project_brick_breaker\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick BreakerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick BreakerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Desktop\Rodi\Brick Breaker\Brick Breaker\Brick BreakerContent\obj\x86\Debug\Brick BreakerContent.contentprojResolveAssemblyReference.cache
+D:\Desktop\Rodi2\Brick Breaker\Brick Breaker\Brick Breaker\Brick BreakerContent\obj\x86\Debug\Brick BreakerContent.contentprojResolveAssemblyReference.cache
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick BreakerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\term 4\c#\Brick Breaker\Brick Breaker\Brick Breaker\Brick BreakerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Alpha Strike Over 9000\C#\bb_phase3\Brick Breaker\Brick Breaker\Brick Breaker\Brick BreakerContent\obj\x86\Debug\Brick BreakerContent.contentprojResolveAssemblyReference.cache
+H:\Brick Breaker\Brick Breaker\Brick BreakerContent\obj\x86\Debug\ResolveAssemblyReference.cache

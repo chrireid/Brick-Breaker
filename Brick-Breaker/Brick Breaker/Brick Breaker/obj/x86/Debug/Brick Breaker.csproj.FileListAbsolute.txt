@@ -1,0 +1,189 @@
+D:\Documents\Alpha Strike Over 9000\C#\csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Brick Breaker.exe
+D:\Documents\Alpha Strike Over 9000\C#\csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Brick Breaker.pdb
+D:\Documents\Alpha Strike Over 9000\C#\csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.csprojResolveAssemblyReference.cache
+D:\Documents\Alpha Strike Over 9000\C#\csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\Alpha Strike Over 9000\C#\csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.exe
+D:\Documents\Alpha Strike Over 9000\C#\csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.pdb
+D:\Documents\Alpha Strike Over 9000\C#\csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\ball.xnb
+D:\Documents\Alpha Strike Over 9000\C#\csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\paddle.xnb
+D:\Documents\Alpha Strike Over 9000\C#\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\ball.xnb
+D:\Documents\Alpha Strike Over 9000\C#\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\paddle.xnb
+D:\Documents\Alpha Strike Over 9000\C#\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Brick Breaker.exe
+D:\Documents\Alpha Strike Over 9000\C#\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Brick Breaker.pdb
+D:\Documents\Alpha Strike Over 9000\C#\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.csprojResolveAssemblyReference.cache
+D:\Documents\Alpha Strike Over 9000\C#\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\Alpha Strike Over 9000\C#\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.exe
+D:\Documents\Alpha Strike Over 9000\C#\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.pdb
+C:\Users\0934402\Downloads\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\ball.xnb
+C:\Users\0934402\Downloads\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\paddle.xnb
+C:\Users\0934402\Downloads\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Brick Breaker.exe
+C:\Users\0934402\Downloads\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Brick Breaker.pdb
+C:\Users\0934402\Downloads\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\0934402\Downloads\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\0934402\Downloads\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.exe
+C:\Users\0934402\Downloads\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.pdb
+C:\Users\0934402\Desktop\!csharp_project_brick_breaker\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\ball.xnb
+C:\Users\0934402\Desktop\!csharp_project_brick_breaker\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\paddle.xnb
+C:\Users\0934402\Desktop\!csharp_project_brick_breaker\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Brick Breaker.exe
+C:\Users\0934402\Desktop\!csharp_project_brick_breaker\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Brick Breaker.pdb
+C:\Users\0934402\Desktop\!csharp_project_brick_breaker\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\0934402\Desktop\!csharp_project_brick_breaker\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\0934402\Desktop\!csharp_project_brick_breaker\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.exe
+C:\Users\0934402\Desktop\!csharp_project_brick_breaker\!csharp_project_brick_breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.pdb
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\ball.xnb
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\paddle.xnb
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Brick Breaker.exe
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Brick Breaker.pdb
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.exe
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.pdb
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\pill.xnb
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\brick.xnb
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\pillName.xnb
+D:\Desktop\Rodi\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\ball.xnb
+D:\Desktop\Rodi\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\paddle.xnb
+D:\Desktop\Rodi\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\pill.xnb
+D:\Desktop\Rodi\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\brick.xnb
+D:\Desktop\Rodi\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\pillName.xnb
+D:\Desktop\Rodi\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Brick Breaker.exe
+D:\Desktop\Rodi\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Brick Breaker.pdb
+D:\Desktop\Rodi\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.csprojResolveAssemblyReference.cache
+D:\Desktop\Rodi\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Desktop\Rodi\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.exe
+D:\Desktop\Rodi\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.pdb
+D:\Desktop\Rodi\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\obstaclebrick.xnb
+D:\Desktop\Rodi\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick1.xnb
+D:\Desktop\Rodi\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick2.xnb
+D:\Desktop\Rodi\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick3.xnb
+D:\Desktop\Rodi\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick4.xnb
+D:\Desktop\Rodi\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick5.xnb
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\obstaclebrick.xnb
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick1.xnb
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick2.xnb
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick3.xnb
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick4.xnb
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick5.xnb
+D:\Desktop\Rodi2\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\ball.xnb
+D:\Desktop\Rodi2\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\paddle.xnb
+D:\Desktop\Rodi2\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\pill.xnb
+D:\Desktop\Rodi2\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\brick.xnb
+D:\Desktop\Rodi2\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\obstaclebrick.xnb
+D:\Desktop\Rodi2\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick1.xnb
+D:\Desktop\Rodi2\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick2.xnb
+D:\Desktop\Rodi2\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick3.xnb
+D:\Desktop\Rodi2\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick4.xnb
+D:\Desktop\Rodi2\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick5.xnb
+D:\Desktop\Rodi2\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\pillName.xnb
+D:\Desktop\Rodi2\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Brick Breaker.exe
+D:\Desktop\Rodi2\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Brick Breaker.pdb
+D:\Desktop\Rodi2\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.csprojResolveAssemblyReference.cache
+D:\Desktop\Rodi2\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Desktop\Rodi2\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.exe
+D:\Desktop\Rodi2\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.pdb
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\ball.xnb
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\paddle.xnb
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\pill.xnb
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\brick.xnb
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\obstaclebrick.xnb
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick1.xnb
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick2.xnb
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick3.xnb
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick4.xnb
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick5.xnb
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\pillName.xnb
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Brick Breaker.exe
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Brick Breaker.pdb
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.exe
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.pdb
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\ball1.xnb
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\crack0.xnb
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\crack1.xnb
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\crack2.xnb
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\crack3.xnb
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\crack4.xnb
+H:\term 4\c#\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\ball1.xnb
+H:\term 4\c#\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\paddle.xnb
+H:\term 4\c#\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\pill.xnb
+H:\term 4\c#\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\brick.xnb
+H:\term 4\c#\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\obstaclebrick.xnb
+H:\term 4\c#\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick1.xnb
+H:\term 4\c#\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick2.xnb
+H:\term 4\c#\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick3.xnb
+H:\term 4\c#\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick4.xnb
+H:\term 4\c#\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick5.xnb
+H:\term 4\c#\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\ball.xnb
+H:\term 4\c#\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\crack0.xnb
+H:\term 4\c#\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\crack1.xnb
+H:\term 4\c#\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\crack2.xnb
+H:\term 4\c#\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\crack3.xnb
+H:\term 4\c#\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\crack4.xnb
+H:\term 4\c#\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\pillName.xnb
+H:\term 4\c#\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Brick Breaker.exe
+H:\term 4\c#\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Brick Breaker.pdb
+H:\term 4\c#\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\term 4\c#\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\term 4\c#\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.exe
+H:\term 4\c#\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.pdb
+D:\Documents\Alpha Strike Over 9000\C#\bb_phase3\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\ball1.xnb
+D:\Documents\Alpha Strike Over 9000\C#\bb_phase3\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\paddle.xnb
+D:\Documents\Alpha Strike Over 9000\C#\bb_phase3\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\pill.xnb
+D:\Documents\Alpha Strike Over 9000\C#\bb_phase3\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\brick.xnb
+D:\Documents\Alpha Strike Over 9000\C#\bb_phase3\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\obstaclebrick.xnb
+D:\Documents\Alpha Strike Over 9000\C#\bb_phase3\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick1.xnb
+D:\Documents\Alpha Strike Over 9000\C#\bb_phase3\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick2.xnb
+D:\Documents\Alpha Strike Over 9000\C#\bb_phase3\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick3.xnb
+D:\Documents\Alpha Strike Over 9000\C#\bb_phase3\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick4.xnb
+D:\Documents\Alpha Strike Over 9000\C#\bb_phase3\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick5.xnb
+D:\Documents\Alpha Strike Over 9000\C#\bb_phase3\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\ball.xnb
+D:\Documents\Alpha Strike Over 9000\C#\bb_phase3\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\crack0.xnb
+D:\Documents\Alpha Strike Over 9000\C#\bb_phase3\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\crack1.xnb
+D:\Documents\Alpha Strike Over 9000\C#\bb_phase3\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\crack2.xnb
+D:\Documents\Alpha Strike Over 9000\C#\bb_phase3\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\crack3.xnb
+D:\Documents\Alpha Strike Over 9000\C#\bb_phase3\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\crack4.xnb
+D:\Documents\Alpha Strike Over 9000\C#\bb_phase3\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\pillName.xnb
+D:\Documents\Alpha Strike Over 9000\C#\bb_phase3\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Brick Breaker.exe
+D:\Documents\Alpha Strike Over 9000\C#\bb_phase3\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Brick Breaker.pdb
+D:\Documents\Alpha Strike Over 9000\C#\bb_phase3\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.csprojResolveAssemblyReference.cache
+D:\Documents\Alpha Strike Over 9000\C#\bb_phase3\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\Alpha Strike Over 9000\C#\bb_phase3\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.exe
+D:\Documents\Alpha Strike Over 9000\C#\bb_phase3\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.pdb
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\ball1.xnb
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\crack0.xnb
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\crack1.xnb
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\crack2.xnb
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\crack3.xnb
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\crack4.xnb
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\playerLives.xnb
+C:\Users\Alessandro\Desktop\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\scoreAndLifesFont.xnb
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\scoreAndLifesFont.xnb
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\playerLives.xnb
+C:\Users\0934402\Downloads\Brick Breaker\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\NextLevelFont.xnb
+H:\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\ball1.xnb
+H:\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\paddle.xnb
+H:\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\pill.xnb
+H:\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\brick.xnb
+H:\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\obstaclebrick.xnb
+H:\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick1.xnb
+H:\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick2.xnb
+H:\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick3.xnb
+H:\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick4.xnb
+H:\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\powerupbrick5.xnb
+H:\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\ball.xnb
+H:\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\crack0.xnb
+H:\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\crack1.xnb
+H:\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\crack2.xnb
+H:\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\crack3.xnb
+H:\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\crack4.xnb
+H:\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\pillName.xnb
+H:\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\scoreAndLifesFont.xnb
+H:\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\playerLives.xnb
+H:\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Content\NextLevelFont.xnb
+H:\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Brick Breaker.exe
+H:\Brick Breaker\Brick Breaker\Brick Breaker\bin\x86\Debug\Brick Breaker.pdb
+H:\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.exe
+H:\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.pdb
